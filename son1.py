@@ -125,8 +125,8 @@ def lebar():
 
 def update():
 	os.system('clear')
-	os.system('rm -rf XBOS')
-	os.system('git clone https://github.com/P-STAR4')
+	os.system('rm -rf DEVIL')
+	os.system('git clone https://github.com/P-STAR4/DEVIL')
 	os.system('sleep 1')
 	os.system('exit')
 	os.system('sleep 2')
